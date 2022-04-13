@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Firebase Auth Test</string>
+
+    <string name="prompt_name">Nome</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_confirm_password">Confirmar Senha</string>
+    <string name="login">Login</string>
+    <string name="log_out">Logout</string>
+    <string name="create_account">Criar conta</string>
+    <string name="no_account">Não possui conta?</string>
+    <string name="has_account">Já possui conta?</string>
+    <string name="sing_in">Entrar</string>
+    <string name="welcome">"Parabéns!\n Você está logado(a)!"</string>
+    <string name="go_back">Voltar ao menu inicial</string>
 </resources>
