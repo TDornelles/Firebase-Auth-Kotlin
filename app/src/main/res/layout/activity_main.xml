@@ -8,6 +8,18 @@
     android:background="@drawable/login_background">
 
     <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvUserInfo"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorPrimaryVeryDark"
+        android:textColor="@color/colorPrimary"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:textSize="20sp"
+        android:textAlignment="center" />
+
+    <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/loginMsg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

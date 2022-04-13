@@ -30,6 +30,7 @@
         android:layout_marginTop="80dp"
         android:drawableStart="@drawable/ic_baseline_person_24"
         android:drawableTint="@color/colorPrimary"
+        android:drawablePadding="10dp"
         android:hint="@string/prompt_name"
         android:textColorHint="@color/colorPrimary"
         android:textColor="@color/colorPrimary"
